@@ -12,9 +12,11 @@ I am planning to enhance my skills in cloud ☁️ and MLOps in the near future.
 
 ## Education 🎓
 
-- 📖 **B.S. In Data Science Application**\
+### 📖 **B.S. In Data Science Application**
+
 📆 2021 - 2025\
-📍 **Indian Institute of Technology, Madras** 
+📍 **Indian Institute of Technology, Madras**\
+Current CGPA - 7.32
 
 
 ## Skills 🤹‍♂️
@@ -52,6 +54,17 @@ I am planning to enhance my skills in cloud ☁️ and MLOps in the near future.
 - [Grocery Store Frontend](https://www.github.com/kumar-shivang/Grocery-Store)
 - [Sentiment Prediction on Movie Reviews](https://www.kaggle.com/code/shivangkumar1/21f2001304-notebook-t22023)
 - Bussiness Data Analysis (as a capstone project for Business Data Management course)
+
+## Things I Love
+
+- 📚 **Reading Books**\
+Fiction - Utopia, Dystopia, Sci-Fi, Fantasy, Classics\
+Non-Fiction - Philosophy, Psychology, History
+- 📺 **Watching Movies**\
+Favourite Genre - Classics, Sci-Fi
+- 🗣️ **Learning Languages**\
+Currently Learning - German 🇩🇪
+
 
 ## Connect With Me 🤝
 
