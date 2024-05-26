@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivang Kumar</h1>
 <h3 align="center">Web and MLOps Developer</h3>
 
-<img src="https://raw.githubusercontent.com/kumar-shivang/kumar-shivang/output/snake.svg" alt="snake" />
 
 <p> <img src="https://komarev.com/ghpvc/?username=kumar-shivang&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-shivang" /> </p>
 
