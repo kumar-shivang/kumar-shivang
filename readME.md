@@ -143,14 +143,6 @@ Key areas I worked on:
 ---
 
 ## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-shivang&show_icons=true&theme=radical" alt="Shivang's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-shivang&layout=compact&langs_count=8&theme=highcontrast" alt="Most Used Languages" />
-</p>
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kumar-shivang\&theme=dark)
 
 ---
